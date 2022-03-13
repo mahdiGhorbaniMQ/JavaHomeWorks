@@ -1,4 +1,4 @@
-package loginStudents.informations;
+package loginStudents.information;
 
 import loginStudents.exceptions.UsernameAlreadyExistsException;
 import loginStudents.exceptions.UsernameNotFoundException;

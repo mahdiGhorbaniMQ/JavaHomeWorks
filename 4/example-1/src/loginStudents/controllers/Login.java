@@ -1,7 +1,7 @@
 package loginStudents.controllers;
 
-import loginStudents.informations.Authentication;
-import loginStudents.informations.StudentsInformation;
+import loginStudents.information.Authentication;
+import loginStudents.information.StudentsInformation;
 import loginStudents.model.Student;
 import loginStudents.exceptions.PasswordIncorrectException;
 import loginStudents.exceptions.UsernameNotFoundException;

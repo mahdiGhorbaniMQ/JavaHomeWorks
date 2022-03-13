@@ -1,4 +1,4 @@
-package loginStudents.informations;
+package loginStudents.information;
 
 import loginStudents.model.Student;
 

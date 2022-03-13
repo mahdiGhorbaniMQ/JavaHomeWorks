@@ -4,12 +4,16 @@ import loginStudents.controllers.Login;
 import loginStudents.controllers.Update;
 import loginStudents.exceptions.PasswordIncorrectException;
 import loginStudents.exceptions.UsernameNotFoundException;
-import loginStudents.informations.Authentication;
-import loginStudents.informations.StudentsInformation;
+import loginStudents.information.Authentication;
+import loginStudents.information.StudentsInformation;
 import loginStudents.io.Input;
 import loginStudents.io.Output;
 
 public class Main {
+
+    // some accounts created by default,
+    // and you can see their information in class information.StudentInformation
+
     public static void main(String[] args) {
         Output output = new Output();
         Input input = new Input(output);

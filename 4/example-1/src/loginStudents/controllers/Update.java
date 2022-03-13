@@ -1,7 +1,7 @@
 package loginStudents.controllers;
 
-import loginStudents.informations.Authentication;
-import loginStudents.informations.StudentsInformation;
+import loginStudents.information.Authentication;
+import loginStudents.information.StudentsInformation;
 import loginStudents.io.Input;
 import loginStudents.model.Student;
 import loginStudents.exceptions.UsernameNotFoundException;

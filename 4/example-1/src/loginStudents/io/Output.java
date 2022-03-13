@@ -8,7 +8,7 @@ public class Output {
         System.out.println();
         System.out.println("Name: " + student.getName());
         System.out.println("Age: " + student.getAge());
-        System.out.println("test.model.Student Number: " + student.getStudentNumber());
+        System.out.println("Student Number: " + student.getStudentNumber());
     }
     public void printMenu(){
         System.out.println();
