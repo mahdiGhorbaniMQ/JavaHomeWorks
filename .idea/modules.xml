@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2/Area/Area.iml" filepath="$PROJECT_DIR$/2/Area/Area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2/Equation/Equation.iml" filepath="$PROJECT_DIR$/2/Equation/Equation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaHomeWorks.iml" filepath="$PROJECT_DIR$/.idea/JavaHomeWorks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1/MaximumNumber/MaximumNumber.iml" filepath="$PROJECT_DIR$/1/MaximumNumber/MaximumNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2/average/average.iml" filepath="$PROJECT_DIR$/2/average/average.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1/calculator/calculator.iml" filepath="$PROJECT_DIR$/1/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4/example-1/example-1.iml" filepath="$PROJECT_DIR$/4/example-1/example-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4/example-2/example-2.iml" filepath="$PROJECT_DIR$/4/example-2/example-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4/example-3/example-3.iml" filepath="$PROJECT_DIR$/4/example-3/example-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3/numbers/numbers.iml" filepath="$PROJECT_DIR$/3/numbers/numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1/searchArray/searchArray.iml" filepath="$PROJECT_DIR$/1/searchArray/searchArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3/simpleCalculator/simpleCalculator.iml" filepath="$PROJECT_DIR$/3/simpleCalculator/simpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1/stars/stars.iml" filepath="$PROJECT_DIR$/1/stars/stars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3/unitSelection/unitSelection.iml" filepath="$PROJECT_DIR$/3/unitSelection/unitSelection.iml" />
+    </modules>
+  </component>
+</project>
