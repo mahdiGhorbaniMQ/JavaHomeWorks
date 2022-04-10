@@ -3,7 +3,7 @@ package com.company;
 public class CarFactory {
     public static Car getCar(Car.Brands brand){
         switch (brand){
-            case BMW: return new BMV();
+            case BMW: return new BMW();
             case Audi: return new Audi();
             case Ferrari: return new Ferrari();
             case Benz: return new Benz();

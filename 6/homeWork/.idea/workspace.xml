@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="971ee43a-8444-4526-9d20-1a541f44a031" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../1/src/com/company/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1/src/com/company/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2/src/com/company/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2/src/com/company/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3/3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3/src/com/company/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3/src/com/company/BMV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3/src/com/company/Benz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3/src/com/company/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3/src/com/company/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3/src/com/company/Ferrari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3/src/com/company/Lamborghini.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3/src/com/company/Porsche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../class-work/src/com/company/CalcFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../class-work/src/com/company/CalcMinus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../class-work/src/com/company/CalcPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../class-work/src/com/company/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/FormatController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/Screenshot from 2022-04-10 18-07-30.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,10 +84,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/screen" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screen" />
       <recent name="$PROJECT_DIR$/src/com/company" />
     </key>
   </component>
