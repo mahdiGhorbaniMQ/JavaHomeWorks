@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51718c50-22fc-4dc1-92b0-d6216f7d582a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e6d72cbf-efc1-4505-80c2-5ed35ab416cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../1/screen/Screenshot from 2022-04-16 21-34-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/screen/Screenshot from 2022-04-16 21-34-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/src/com/company/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/src/com/company/IO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/src/com/company/MySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/src/com/company/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/src/com/company/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/Screenshot from 2022-04-16 22-46-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/Screenshot from 2022-04-16 22-48-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/IO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classWork/screen/Screenshot from 2022-04-16 20-25-47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classWork/screen/Screenshot from 2022-04-16 20-28-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classWork/src/com/company/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classWork/src/com/company/AuthException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classWork/src/com/company/IO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classWork/src/com/company/MySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classWork/src/com/company/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classWork/src/com/company/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6/class-work/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../6/class-work/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +34,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -23,7 +44,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="27Z7oOfyjVLOWVjr3WgAxs7NEym" />
+  <component name="ProjectId" id="27t9wJfHd0ubVrRv90KMkCIPdEQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -85,17 +106,25 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../hotel/HotelProject" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/screen" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/screen" />
+      <recent name="$PROJECT_DIR$/src/com/company" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="class-work" />
+      <module name="2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -112,11 +141,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="51718c50-22fc-4dc1-92b0-d6216f7d582a" name="Changes" comment="" />
-      <created>1649515937224</created>
+      <changelist id="e6d72cbf-efc1-4505-80c2-5ed35ab416cd" name="Changes" comment="" />
+      <created>1650128756179</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1649515937224</updated>
+      <updated>1650128756179</updated>
     </task>
     <servers />
   </component>
