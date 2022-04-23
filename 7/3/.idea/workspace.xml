@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="636f174d-8c6b-48c9-87b6-50bb4a23e4fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../1/screen/Screenshot from 2022-04-16 21-34-19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1/screen/Screenshot from 2022-04-16 21-34-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1/src/com/company/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1/src/com/company/IO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1/src/com/company/MySQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1/src/com/company/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1/src/com/company/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2/screen/Screenshot from 2022-04-16 22-46-58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2/screen/Screenshot from 2022-04-16 22-48-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2/src/com/company/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2/src/com/company/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2/src/com/company/EmployeeDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2/src/com/company/IO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2/src/com/company/MySQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/IO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/MySQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/StudentDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classWork/screen/Screenshot from 2022-04-16 20-25-47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classWork/screen/Screenshot from 2022-04-16 20-28-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classWork/src/com/company/AuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classWork/src/com/company/AuthException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classWork/src/com/company/IO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classWork/src/com/company/MySQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classWork/src/com/company/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classWork/src/com/company/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../6/class-work/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../6/class-work/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,18 +76,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "last_opened_file_path": "/home/mahdi/Projects/uniProjects/hotel/HotelProject",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screen" />
       <recent name="$PROJECT_DIR$/src/com/company" />
     </key>
   </component>
