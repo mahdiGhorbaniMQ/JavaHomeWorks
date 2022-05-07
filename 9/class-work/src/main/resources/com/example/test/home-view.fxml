@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+
+<GridPane fx:controller="com.example.test.view.HomeView"
+          xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="25" vgap="20">
+    <padding><Insets top="25" right="25" bottom="25" left="25"/></padding>
+
+    <Text text="Home"
+          GridPane.columnIndex="0" GridPane.rowIndex="0"/>
+
+    <Label text="Name:"
+           GridPane.columnIndex="0" GridPane.rowIndex="1"/>
+
+    <Text fx:id="nameTxt"
+          GridPane.columnIndex="1" GridPane.rowIndex="1"/>
+
+    <Label text="Email:"
+           GridPane.columnIndex="0" GridPane.rowIndex="2"/>
+
+    <Text fx:id="emailTxt"
+          GridPane.columnIndex="1" GridPane.rowIndex="2"/>
+
+    <Label text="Username:"
+           GridPane.columnIndex="0" GridPane.rowIndex="3"/>
+
+    <Text fx:id="usernameTxt"
+          GridPane.columnIndex="1" GridPane.rowIndex="3"/>
+
+    <HBox spacing="10" alignment="bottom_right"
+          GridPane.columnIndex="1" GridPane.rowIndex="4">
+        <Button text="Sign Out"
+                onAction="#signOut"/>
+    </HBox>
+    <HBox spacing="10" alignment="bottom_right"
+          GridPane.columnIndex="0" GridPane.rowIndex="4">
+        <Button text="Delete Account"
+                onAction="#deleteAccount"/>
+    </HBox>
+</GridPane>
